@@ -1,2 +1,6 @@
 # README-generator
-An application that prompts the user through the command line and generates a README file for their project.
+An application that prompts the user to enter information that will generate a quality README file. 
+  
+
+  
+  
