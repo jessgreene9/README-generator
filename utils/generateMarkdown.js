@@ -13,17 +13,17 @@ function generateMarkdown(data) {
 
     return `
   
-  # ${data.title}
-  ${badges[data.license] || ""}
+# ${data.title}
+${badges[data.license] || ""}
   
    
   
-  ## Description
+## Description
   
-  ${data.description}.
+${data.description}.
   
   
-  ## Table of Contents
+## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
@@ -36,35 +36,35 @@ function generateMarkdown(data) {
 ## Installation
   
       
-      ${data.installation}
+${data.installation}
   
   
 ## Usage
   
-      ${data.usage}
+${data.usage}
   
       
       
 ## Contribution
       
       
-      ${data.contribution}
+${data.contribution}
       
       
 ## Tests
       
-      ${data.tests}
+${data.tests}
       
       
 ## Questions
       
-      For any questions about this project, please visit my GitHub page: ![GitHub Profile](https://github.com/${data.username})
+For any questions about this project, please visit my GitHub page: [GitHub Profile](https://github.com/${data.username})
       
-      Or email me at: ![Jess Greene](mailto:${data.email})
+Or email me at: [Jess Greene](mailto:${data.email})
       
 ## License
       
-      ${data.license} 
+${data.license} 
        
   
   `;
