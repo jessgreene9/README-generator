@@ -28,7 +28,7 @@ inquirer.prompt([
     {
       type: "input",
       name: "installation",
-      message: "Enter instructions to install",
+      message: "Enter instructions to install.",
     },
     {
       type: "input",
@@ -40,7 +40,7 @@ inquirer.prompt([
       name: "license",
       message: "Please select a license.",
       choices: [
-        "MIT License","GNU LGPL v3","MPL 2.0","GNU AGPL v3","The Unlicense","Apache License 2.0", "GNU GPL v3","Eclipse Public License 1.0"
+        "Apache License 2.0", "Eclipse Public License 1.0", "GNU GPL v3", "GNU AGPL v3","GNU LGPL v3", "MIT License","MPL 2.0", "The Unlicense", 
       ],
     },
     {
@@ -57,12 +57,12 @@ inquirer.prompt([
     {
       type: "input",
       name: "username",
-      message: "Enter your GitHub username",
+      message: "Enter your GitHub username.",
     },
     {
       type: "input",
       name: "email",
-      message: "Enter your email address?",
+      message: "Enter your email address.",
     },
   ]).then(function (data) {
     writeToFile("./output-README/README.md", generateMarkdown(data));
