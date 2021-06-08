@@ -14,7 +14,7 @@ function writeToFile(fileName, data) {
     });
   };
   
-inquirer.prompt([
+const init = () => {inquirer.prompt([
     {
       type: "input",
       name: "title",
@@ -67,4 +67,6 @@ inquirer.prompt([
   ]).then(function (data) {
     writeToFile("./output-README/README.md", generateMarkdown(data));
   });
+};
 
+init();
