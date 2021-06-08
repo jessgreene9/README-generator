@@ -33,13 +33,13 @@ function generateMarkdown(data) {
   * [License](#license)
   
   
-  ## Installation
+## Installation
   
       
       ${data.installation}
   
   
-  ## Usage
+## Usage
   
       ${data.usage}
   
@@ -48,7 +48,7 @@ function generateMarkdown(data) {
 ## Contribution
       
       
-    ${data.contribution}
+      ${data.contribution}
       
       
 ## Tests
@@ -56,15 +56,15 @@ function generateMarkdown(data) {
       ${data.tests}
       
       
- ## Questions
+## Questions
       
-      For any questions about this project, please visit my GitHub page: [GitHub Profile](https://github.com/${data.username})
+      For any questions about this project, please visit my GitHub page: ![GitHub Profile](https://github.com/${data.username})
       
-      Or email me at: [Jess Greene](mailto:${data.email})
+      Or email me at: ![Jess Greene](mailto:${data.email})
       
 ## License
       
-       ${data.license} 
+      ${data.license} 
        
   
   `;
