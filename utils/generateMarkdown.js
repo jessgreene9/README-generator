@@ -60,7 +60,7 @@ ${data.tests}
       
 For any questions about this project, please visit my GitHub page: [GitHub Profile](https://github.com/${data.username})
       
-Or email me at: [Jess Greene](mailto:${data.email})
+Or email me at: [My Email](mailto:${data.email})
       
 ## License
       
