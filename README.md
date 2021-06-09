@@ -12,6 +12,7 @@ An application that prompts the user to enter information in the command line th
 - [Usage](#usage)
 - [Tech/Framework](#tech/framework)
 - [Contributions](#contributions)
+- [Github](#github)
 - [Contact](#contact)
 - [License](#license)
 
@@ -64,12 +65,17 @@ This project was made with help from:
 * UNCC BootCamp class
 * My tutor, Josh Furlin
 
+## Github
+
+<https://github.com/jessgreene9/README-generator>
+
 ## Contact
 
     
 For any questions about this project, please visit my GitHub page: [GitHub Profile](https://github.com/jessgreene9)
       
 Or email me at: [Jess Greene](mailto:jess.greene9@gmail.com)
+
 
 ## License
 
