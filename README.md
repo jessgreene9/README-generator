@@ -12,6 +12,7 @@ An application that prompts the user to enter information in the command line th
 - [Usage](#usage)
 - [Tech/Framework](#tech/framework)
 - [Contributions](#contributions)
+- [Contact](#contact)
 - [License](#license)
 
 
@@ -34,8 +35,8 @@ This application allows the user to easily create a quality README.md file. The 
 
 
 ## Screenshots
-<img src="./screenshot1.png">
-![Demo README](./images/demo-readme.gif)
+<img src="./images/screenshot1.png">
+<img src="./images/demo-readme.gif">?
 
 
 ## Installation
@@ -63,7 +64,12 @@ This project was made with help from:
 * UNCC BootCamp class
 * My tutor, Josh Furlin
 
+## Contact
 
+    
+For any questions about this project, please visit my GitHub page: [GitHub Profile](https://github.com/jessgreene9)
+      
+Or email me at: [Jess Greene](mailto:jess.greene9@gmail.com)
 
 ## License
 
