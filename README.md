@@ -32,7 +32,7 @@ This application allows the user to easily create a quality README.md file. The 
    * Email address
 
 ## Demonstration
-[click here](https://drive.google.com/file/d/1BY7f9Qeo1xrw-t0VdAp7VHjU0ZmK3qUz/view)
+[Click here for Demo](https://drive.google.com/file/d/1NWh1fGOxgEesTAuijxn3xwcl8CoD7iGa/view)
 
 
 ## Screenshots
@@ -66,6 +66,7 @@ This project was made with help from:
 * My tutor, Josh Furlin
 
 ## Github
+Below is the link to the github repository for this project
 
 <https://github.com/jessgreene9/README-generator>
 
