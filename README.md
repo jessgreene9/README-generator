@@ -34,6 +34,8 @@ This application allows the user to easily create a quality README.md file. The 
 
 
 ## Screenshots
+<img src="./screenshot1.png">
+![Demo README](./images/demo-readme.gif)
 
 
 ## Installation
